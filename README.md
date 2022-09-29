@@ -45,7 +45,7 @@ go version
 ---------------
 
 ```
-cd forThundercore
+cd assignment1
 go run main.go
 
 ```
